@@ -1,6 +1,6 @@
 <h1>Hello There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=435&lines=An+explorer+at+heart+❤;Machine+Learning+🤔)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&multiline=true&width=435&lines=An+explorer+at+finding+new+things+❤;Machine+Learning+🤔)](https://git.io/typing-svg)
 
 
 ## About Me 👽
